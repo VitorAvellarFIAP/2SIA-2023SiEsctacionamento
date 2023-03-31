@@ -1,0 +1,28 @@
+-controle de Entrada e Saída de Veículos: O sistema deve ser capaz de registrar a entrada e saída de cada veículo no estacionamento, incluindo a data, hora e tempo de permanência.
+
+-Gerenciamento de Vagas: O sistema deve mostrar em tempo real quais vagas estão ocupadas e quais estão livres, para que o operador possa orientar os motoristas para os espaços disponíveis.
+
+-Controle de Pagamento: O sistema deve permitir a cobrança de estacionamento por tempo de uso ou por fração de hora, além de permitir o registro de diferentes formas de pagamento, como dinheiro, cartão de crédito ou débito, ou pagamento eletrônico.
+
+-Relatórios de Movimentação: O sistema deve gerar relatórios diários, semanais e mensais sobre a movimentação do estacionamento, incluindo informações como número de veículos estacionados, tempo médio de permanência, receita gerada, entre outros.
+
+-Controle de Acesso: O sistema deve permitir o controle de acesso de funcionários e gerentes do estacionamento, com diferentes níveis de permissão de acesso aos dados.
+
+-Integração com Câmeras de Segurança: O sistema pode ser integrado com câmeras de segurança para monitorar o movimento dos veículos no estacionamento, o que aumenta a segurança do local e ajuda a prevenir roubos e vandalismos.
+
+-Suporte Técnico: O sistema deve oferecer suporte técnico aos usuários, para ajudá-los em caso de problemas com o sistema.
+
+Fonte: chatGPT
+
+----------------------------------------------------------------------------------------------------
+
+-Suporte tecnico
+-Sistema que organize o financeiro
+-Atualização e manutenção constante
+-Sistema para estacionamento com gestão de nota Fiscal Eletrônica
+-Contrato
+-Política de privacidade
+-Softwares integrados com diversos equipamentos
+-Sistema com integração com meios de pagamentos
+
+FONTE: https://jumppark.com.br/blog/sistema-para-estacionamento-rotativo/
